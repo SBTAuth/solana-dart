@@ -11,7 +11,7 @@ dependencies:
   build: ^2.1.1
   http: ^0.13.4
   solana:
-    path: ../solana
+    git: https://github.com/SBTAuth/solana-dart
   source_gen: ^1.1.1
 
 dev_dependencies:

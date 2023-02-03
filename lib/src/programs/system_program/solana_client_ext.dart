@@ -17,7 +17,9 @@ extension SolanaClientSystemProgram on SolanaClient {
   }) async {
     final instructions = [
       SystemInstruction.transfer(
+        // from
         fundingAccount: source.publicKey,
+        // to
         recipientAccount: destination,
         lamports: lamports,
       ),
