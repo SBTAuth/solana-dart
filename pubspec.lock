@@ -457,10 +457,10 @@ packages:
     dependency: "direct main"
     description:
       name: mpc_dart
-      sha256: e4dab7336219f007c6751b30b6a013603d89a691ed4115f0915f2e44e780adff
+      sha256: fc56b125153d1855d259e602032a965692ff9eb1e60a3748b8a31093d89df285
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "0.3.0"
+    version: "0.3.1"
   node_preamble:
     dependency: transitive
     description:
